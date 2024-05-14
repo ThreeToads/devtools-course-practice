@@ -4,7 +4,7 @@
 
 #include <string>
 
-#include "include/sort_station.h"
+#include "../include/sort_station.h"
 
 class SortStationApp {
  public:

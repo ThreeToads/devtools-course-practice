@@ -4,7 +4,7 @@
 #include <sstream>
 #include <stdexcept>
 #include <cstring>
-#include "include/sort_station_app.h"
+#include "../include/sort_station_app.h"
 
 void SortStationApp::help(const char* appName, const char* msg) {
     std::stringstream ss;
